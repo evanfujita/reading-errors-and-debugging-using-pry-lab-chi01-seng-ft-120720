@@ -11,8 +11,6 @@ def prompt_user
   num = get_user_input
 end
 
-binding.pry
-
 def selection(num)
   if num = 1
      "YUM YUM MUNCH MUNCH MUNCH"
